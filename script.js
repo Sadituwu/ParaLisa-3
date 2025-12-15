@@ -9,9 +9,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Mensajes para las cartas
     const messages = [
-        "Te quiero en mi vida 💖",
-        "Eres el regalo mas bonito que tuev este año :3🎁",
-        "Tú haces que mids días sean Bonitos✨",
+        "Te amo mas que don cangreso al dinero 💖",
+        "Eres la coincidencia mas bonita que este año me regalo :3🎁",
+        "Tú haces que mis días sean Bonitos✨",
         "Me traes mas loco que un manicomio💫",
         "Amo cada postre y cada abrazo tuyo. 💌"
     ];
