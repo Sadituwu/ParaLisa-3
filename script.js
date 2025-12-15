@@ -9,11 +9,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Mensajes para las cartas
     const messages = [
-        "Ты - причина моего счастья  💖",
-        "Каждый день с тобой - это подарок🎁",
-        "Твоя улыбка озаряет мою жизнь ✨",
-        "Любовь, которую я испытываю к тебе, безгранична.💫",
-        "Спасибо, что ты всегда был в моей жизни. 💌"
+        "Te quiero en mi vida 💖",
+        "Eres el regalo mas bonito que tuev este año :3🎁",
+        "Tú haces que mids días sean Bonitos✨",
+        "Me traes mas loco que un manicomio💫",
+        "Amo cada postre y cada abrazo tuyo. 💌"
     ];
 
     // Asignar eventos a cada carta
