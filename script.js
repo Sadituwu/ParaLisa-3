@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             if (index === messages.length - 1) {
                 setTimeout(() => {
-                    alert("С Днем святого Валентина, Лиза :3!❤️");
+                    alert("Feliz 5 meses amor mio!❤️");
                     audio.play(); // Reproducir la canción
                 }, 800);
             }
